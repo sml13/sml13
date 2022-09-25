@@ -1,7 +1,7 @@
 Olá pessoal, eu sou o <b> Samuel Cruz. </b> 👋
 
 - 🔭 Atualmente estou em busca de oportunidade de trabalho como Desenvolvedor Jr.
-- 🌱 Atualmente estou aprendendo Python, JavaScript, CSS e HTML.
+- 🌱 Atualmente estou aprendendo JavaScript, CSS, HTML e React.
 - 💬 Pergunte-me sobre qualquer tópico.
 - 📫 Você pode me contatar via e-mail: samuelrdacruz@gmail.com
 
